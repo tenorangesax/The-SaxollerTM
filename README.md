@@ -9,11 +9,10 @@ A simple art shortcut keyboard for digital artists! (like me!) Includes 12 keybo
 <img width="1073" height="772" alt="Screenshot 2026-08-30 at 8 30 48 PM" src="https://github.com/user-attachments/assets/06992011-aa49-46b8-93c3-c9b4d35f48a3" />
 
 
-**PCB EDITOR:
+**PCB EDITOR:**
 <img width="1115" height="753" alt="Screenshot 2026-08-30 at 8 31 44 PM" src="https://github.com/user-attachments/assets/fd5e48e2-6988-4f7a-8450-65a166eb622e" />
 <img width="1115" height="753" alt="Screenshot 2026-08-30 at 8 32 14 PM" src="https://github.com/user-attachments/assets/70f239b7-3907-47e5-aa1e-0bf50258bc50" />
 
-**BOM:**
 **BOM:**
 
 | Item name | Quantity | Single price | Link to purchase | Description |
