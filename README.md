@@ -1,4 +1,4 @@
-# The-SaxollerTM
+# The-Saxoller™
 A simple art shortcut keyboard for digital artists! (like me!) Includes 12 keyboard switches that can be programmed to do any shortcuts, a rotary encoder for zooming canvases, and powered by a ESP32C3 Seeed Studio!
 
 **3D VIEWER:**
